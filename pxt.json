@@ -1,6 +1,6 @@
 {
-    "name": "Loops Extension",
-    "description": "",
+    "name": "Better Loops Extension",
+    "description": "Expands on the regular loop blocks and adds more functionalitiy to the loop blocks.",
     "dependencies": {
         "device": "*"
     },
